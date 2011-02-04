@@ -1,0 +1,14 @@
+/_cpuinfo.asm/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/_dma.asm/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/_int64.asm/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/_joy.asm/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/_mtrr.asm/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/_pcihelp.asm/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/agp.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/keyboard.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/malloc.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/mtrr.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/pcilib.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/unixio.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/vgastate.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+D

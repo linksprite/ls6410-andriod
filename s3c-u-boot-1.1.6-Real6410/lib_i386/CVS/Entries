@@ -1,0 +1,15 @@
+/Makefile/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/bios.S/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/bios.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/bios_pci.S/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/bios_setup.c/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/board.c/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/i386_linux.c/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/pci.c/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/pci_type1.c/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/realmode.c/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/realmode_switch.S/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/video.c/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/video_bios.c/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/zimage.c/1.1.1.1/Wed Dec  6 00:22:14 2006//
+D

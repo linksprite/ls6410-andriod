@@ -1,0 +1,16 @@
+#!/bin/sh
+make clean
+echo "#define CONFIG_BOOT_MOVINAND" > include/configs/boot_type.h
+make
+if [ $? -eq 0 ]
+then
+	rm -f u-boot_mmc.bin temp u-boot_256k.bin u-boot_8k.bin x*
+	cat u-boot.bin >> temp
+	cat u-boot.bin >> temp
+	split -b 256k temp
+	mv xaa u-boot_256k.bin
+	split -b 8k u-boot.bin
+	mv xaa u-boot_8k.bin
+	cat u-boot_256k.bin >> u-boot_mmc.bin
+	cat u-boot_8k.bin >> u-boot_mmc.bin
+fi

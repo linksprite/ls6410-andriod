@@ -1,0 +1,24 @@
+/Makefile/1.7/Fri Jul 20 03:39:00 2007//
+/ata.c/1.3/Wed Jun 20 03:55:47 2007//
+/ata.h/1.2/Tue Apr 24 05:16:47 2007//
+/config.mk/1.2/Mon Dec 17 05:39:41 2007//
+/cpu.c/1.7/Thu Jul 10 08:28:38 2008//
+/hs_mmc.c/1.17/Thu Jul 10 08:18:06 2008//
+/hs_mmc.h/1.1/Fri Jul 20 03:39:00 2007//
+/i2c.c/1.2/Tue Jan 30 05:59:26 2007//
+/interrupts.c/1.2/Fri Feb 23 04:46:22 2007//
+/movi.c/1.10/Mon Jul 21 04:45:21 2008//
+/nand.c/1.25/Tue Sep 16 07:28:09 2008//
+/nand_cp.c/1.4/Tue Apr  8 00:41:40 2008//
+/onenand.c/1.10/Thu Jul 10 08:18:51 2008//
+/onenand_cp.c/1.4/Thu Apr 10 01:36:30 2008//
+/serial.c/1.2/Fri Feb 23 04:46:22 2007//
+/start.S/1.13/Tue Jul 22 01:02:06 2008//
+/usb_ohci.c/1.2/Tue Apr 17 01:30:51 2007//
+/usb_ohci.h/1.2/Tue Apr 17 01:30:51 2007//
+/usbd-otg-hs.c/1.3/Thu Jul 10 08:19:19 2008//
+/usbd-otg-hs.h/1.1/Tue Apr 17 02:01:33 2007//
+D/mdirac3////
+D/s3c6400////
+D/s3c6410////
+D/s3c6430////

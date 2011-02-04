@@ -1,0 +1,14 @@
+/common_util.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/common_util.h/1.1.1.1/Wed Dec  6 00:22:13 2006//
+/flash.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/isa.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/isa.h/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/kbd.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/kbd.h/1.1.1.1/Wed Dec  6 00:22:13 2006//
+/memtst.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/pci.c/1.1.1.1/Wed Dec  6 00:22:12 2006//
+/pci_parts.h/1.1.1.1/Wed Dec  6 00:22:13 2006//
+/piix4_pci.h/1.1.1.1/Wed Dec  6 00:22:13 2006//
+/usb_uhci.c/1.1.1.1/Wed Dec  6 00:22:13 2006//
+/usb_uhci.h/1.1.1.1/Wed Dec  6 00:22:13 2006//
+D

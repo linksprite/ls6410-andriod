@@ -1,0 +1,34 @@
+/atomic.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/bitops.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/byteorder.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/errno.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/global_data.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/hardware.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/io.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/mach-types.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/memory.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/posix_types.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/processor.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/ptrace.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/setup.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/sizes.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/string.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/types.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/u-boot-arm.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+/u-boot.h/1.1.1.1/Wed Dec  6 00:22:14 2006//
+D/arch-arm1136////
+D/arch-arm720t////
+D/arch-arm925t////
+D/arch-arm926ejs////
+D/arch-at91rm9200////
+D/arch-imx////
+D/arch-ixp////
+D/arch-ks8695////
+D/arch-omap////
+D/arch-pxa////
+D/arch-s3c24x0////
+D/arch-s3c24xx////
+D/arch-s3c44b0////
+D/arch-s3c64xx////
+D/arch-sa1100////
+D/proc-armv////
