@@ -3,4 +3,4 @@ make clean
 rm -f u-boot_mmc.bin temp u-boot_256k.bin u-boot_8k.bin x*
 echo "#define CONFIG_BOOT_NAND" > include/configs/boot_type.h
 make
-cp u-boot.bin /tftpboot
+ cp u-boot.bin /tftpboot
