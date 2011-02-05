@@ -1,3 +1,4 @@
 s3c-u-boot-1.1.6-Real6410: u-boot source files
 arm-2008q3.tar.bz2:  arm cross compiler
 android-image.rar: the built and ready for downloading images
+s3c-linux-2.6.28.6-Real6410: linux kernel source files
